@@ -12,4 +12,5 @@ class ConstellationActivity : AppCompatActivity() {
 
         Toast.makeText(applicationContext, "ConstellationActivity 입니다.", Toast.LENGTH_LONG).show()
     }
+
 }
