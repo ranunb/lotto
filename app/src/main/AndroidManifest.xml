@@ -11,7 +11,7 @@
             android:theme="@style/AppTheme">
         <activity android:name=".AbsoluteActivity">
         </activity>
-        <activity android:name=".MainActivity">
+        <activity android:name=".TestActivity">
         </activity>
         <activity android:name=".ResultActivity">
         </activity>
@@ -19,7 +19,7 @@
         </activity>
         <activity android:name=".ConstellationActivity">
         </activity>
-        <activity android:name=".TestActivity">
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
